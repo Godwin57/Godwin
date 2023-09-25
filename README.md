@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on a weather app 🌧️
+
 👯 I’m looking to collaborate on meaningful open source projects 🧑‍💻
+
 🤝 I’m looking for help with finding coding pals🙂
+
 🌱 I’m currently learning react native 😌
+
 💬 Ask me about JavaScript, typescript, react, css and tailwind css
+
 ⚡ Fun fact, I sometimes prefer vanilla css to tailwind css 😉
 
 
